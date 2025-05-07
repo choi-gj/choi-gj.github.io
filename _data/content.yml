@@ -100,45 +100,45 @@ skills:
 
 ### Resume [ resume ]
 resume:
-  title: "Resume"
-  subtitle: "my <b>Story</b>"
+  title: "이력서"
+  subtitle: "학력 및 경력"
   bg_title: "History"
 
   education:
-    title: "Education"
+    title: "학력"
     items:
-      - name: "CoderHouse Courses"
-        subname: "Backend Programming"
-        period: "2014 - 2016"
-        text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+      - name: "한국폴리텍대학교 강서캠퍼스"
+        subname: "사이버보안과 2학년"
+        period: "2024 - 2025"
+        text: "사이버보안과 2학년 재학중인 최경준입니다."
 
-      - name: "Lviv National Academy of Arts"
-        subname: "Faculty of Design"
-        period: "2012 - 2014"
-        text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+      # - name: "Lviv National Academy of Arts"
+      #   subname: "Faculty of Design"
+      #   period: "2012 - 2014"
+      #   text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
 
-      - name: "IT Future"
-        subname: "High School"
-        period: "2010 - 2012"
-        text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+      # - name: "IT Future"
+      #   subname: "High School"
+      #   period: "2010 - 2012"
+      #   text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
 
   experience:
-    title: "Experience"
+    title: "경력"
     items:
       - name: "UI Head &amp; Manager"
         subname: "Soft Tech Inc."
         period: "2020 - <b>Present</b>"
         text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
 
-      - name: "UI / UX Specialist"
-        subname: "Kana Design Studio"
-        period: "2018 - 2020"
-        text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+      # - name: "UI / UX Specialist"
+      #   subname: "Kana Design Studio"
+      #   period: "2018 - 2020"
+      #   text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
 
-      - name: "Plugins Developer"
-        subname: "Fiverr.com"
-        period: "2016 - 2018"
-        text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+      # - name: "Plugins Developer"
+      #   subname: "Fiverr.com"
+      #   period: "2016 - 2018"
+      #   text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
 
 
 ### Testimonials [ testimonials ]
@@ -274,9 +274,9 @@ contacts:
 ### Portfolio [ portfolio ]
 #items generates from dir /_works/*
 portfolio:
-  title: "Portfolio"
-  subtitle: "my <b>Cases</b>"
-  bg_title: "Portfolio"
+  title: "포트폴리오"
+  subtitle: "대표 작업물"
+  bg_title: "Works"
   button:
     link: "works/"
-    label: "View More"
+    label: "더 보기"
