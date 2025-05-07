@@ -27,37 +27,37 @@ hero:
 
 ### Services [ services ]
 services:
-  title: "What I Do"
+  title: "기술"
   subtitle: "my <b>Services</b>"
   bg_title: "Services"
 
   items:
-    - title: "Web Design &amp; Logo"
-      subtitle: "Web Development"
+    - title: "웹 디자인 &amp; 로고"
+      subtitle: "웹 개발"
       text: "Web designers craft the overall vision &amp; plan for a website layout. Professional logo development: Business, Company, or Personal."
       button_label: "See Pricing"
       button_link: "#pricing-section"
 
-    - title: "iOS &amp; Android"
-      subtitle: "Apps Development"
+    - title: "iOS &amp; 안드로이드"
+      subtitle: "앱 개발"
       text: "Design Software applications to run on mobile devices. Modern and mobile-ready application that will help you reach all of your marketing."
       button_label: "See Pricing"
       button_link: "#pricing-section"
 
-    - title: "Unity &amp; Unreal Engine"
-      subtitle: "Game Development"
+    - title: "유니티 &amp; 언리얼 엔진"
+      subtitle: "게임 개발"
       text: "Creating games &amp; describes the design, development and release of a game. Developing unique mobile android and ios games."
       button_label: "See Pricing"
       button_link: "#pricing-section"
 
-    - title: "Google Ads"
-      subtitle: "Advertising"
+    - title: "구글 광고"
+      subtitle: "광고"
       text: "Advertising services include: Google search result pages, gmails, YouTube and other websites participated in Google Ads program."
       button_label: "See Pricing"
       button_link: "#pricing-section"
 
-    - title: "Sound Track"
-      subtitle: "Music Writing"
+    - title: "사운드 트랙"
+      subtitle: "음악 작곡"
       text: "Music copying, writing, creating, transcription and composition services."
       button_label: "See Pricing"
       button_link: "#pricing-section"
@@ -125,10 +125,10 @@ resume:
   experience:
     title: "경력"
     items:
-      - name: "UI Head &amp; Manager"
-        subname: "Soft Tech Inc."
-        period: "2020 - <b>Present</b>"
-        text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+      - name: "웹 개발자"
+        subname: "Luique 웹 개발"
+        period: "2025 - 2025"
+        text: "github 통한 Luique 개인 블로그 웹 제작"
 
       # - name: "UI / UX Specialist"
       #   subname: "Kana Design Studio"
