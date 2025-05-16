@@ -15,27 +15,27 @@ preloader:
 ### Header
 header:
   logo:
-    image: "assets/img/logo2.png"
-    alt: "Zoé Miller"
+    image: "assets/img/짱구.png"
+    alt: "최경준"
 
 ### Social
 social:
-  - title: "Twitter"
-    icon: "fab fa-twitter"
-    url: "http://twitter.com"
+  - title: "Github"
+    icon: "fab fa-github"
+    url: "https://github.com/choi-gj"
 
-  - title: "Dribbble"
-    icon: "fab fa-dribbble"
-    url: "http://dribbble.com"
+  - title: LinkedIn"
+    icon: "fab fa-LinkedIn"
+    url: "https://linkedin.com/in/choigj"
 
-  - title: "Behance"
-    icon: "fab fa-behance"
-    url: "http://behance.com"
+  - title: "Instagram"
+    icon: "fab fa-instagram"
+    url: "https://instagram.com/choi-gj"
 
 ### Footer
 footer:
-  developer: "Developed by <strong>bslthemes</strong>"
-  copyright: "<strong>Luique</strong>. All rights reserved"
+  developer: "개발자 - 최경준"
+  copyright: "웹 포트폴리오. All rights reserved"
 
 ### Portfolio Filters Settings
 portfolio:
