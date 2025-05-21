@@ -5,21 +5,21 @@
 
 ### Hero [ hero-image ]
 hero:
-  image: "assets/img/profile2.png"
-  image_alt: "Zoé Miller"
-  title: "<b>Zoé</b> Miller"
-  before_title: "Hello, <b>my name is</b>"
-  after_title: "I am <strong>Web Developer</strong>"
-  description: "From France, Paris. I have rich experience in web design, also I am good at wordpress. I love to talk with you about our unique."
+  image: "assets/img/images.jpg"
+  image_alt: "최경준"
+  title: "<b>최</b> 경준"
+  before_title: "안녕하세요, <b>저는</b>"
+  after_title: "<strong>웹 개발자</strong>입니다."
+  description: "한국에서 웹 개발을 하고 있습니다."
   button1:
-    label: "Download CV"
-    link: "https://drive.google.com/"
+    label: "이력서 다운로드"
+    link: "assets/files/resume.pdf"
   button2:
-    label: "My Skills"
-    link: "#skills-section"
-  bg_title: "Web Developer"
+    label: "포트폴리오 보기"
+    link: "#portfolio-section"
+  bg_title: "웹 개발자"
   info:
-    - num: "12 <strong>+</strong>"
+    - num: "10"
       value: "Years of <strong>Experience</strong>"
 
     - num: "330"
@@ -27,118 +27,118 @@ hero:
 
 ### Services [ services ]
 services:
-  title: "What I Do"
-  subtitle: "my <b>Services</b>"
+  title: "전문 분야"
+  subtitle: "제공 <b>서비스</b>"
   bg_title: "Services"
 
   items:
-    - title: "Web Design &amp; Logo"
-      subtitle: "Web Development"
-      text: "Web designers craft the overall vision &amp; plan for a website layout. Professional logo development: Business, Company, or Personal."
-      button_label: "See Pricing"
-      button_link: "#pricing-section"
+    - title: "웹 개발"
+      subtitle: "백엔드"
+      text: "반응형 웹사이트 제작 및 API 개발"
+      button_label: "자세히 보기"
+      button_link: "#contacts-section"
 
-    - title: "iOS &amp; Android"
-      subtitle: "Apps Development"
-      text: "Design Software applications to run on mobile devices. Modern and mobile-ready application that will help you reach all of your marketing."
-      button_label: "See Pricing"
-      button_link: "#pricing-section"
+    - title: "앱 개발"
+      subtitle: "IOS/Android"
+      text: "네이티브 및 하이브리드 앱 개발"
+      button_label: "자세히 보기"
+      button_link: "#contacts-section"
 
-    - title: "Unity &amp; Unreal Engine"
-      subtitle: "Game Development"
-      text: "Creating games &amp; describes the design, development and release of a game. Developing unique mobile android and ios games."
-      button_label: "See Pricing"
-      button_link: "#pricing-section"
+    # - title: "Unity &amp; Unreal Engine"
+    #   subtitle: "Game Development"
+    #   text: "Creating games &amp; describes the design, development and release of a game. Developing unique mobile android and ios games."
+    #   button_label: "See Pricing"
+    #   button_link: "#pricing-section"
 
-    - title: "Google Ads"
-      subtitle: "Advertising"
-      text: "Advertising services include: Google search result pages, gmails, YouTube and other websites participated in Google Ads program."
-      button_label: "See Pricing"
-      button_link: "#pricing-section"
+    # - title: "Google Ads"
+    #   subtitle: "Advertising"
+    #   text: "Advertising services include: Google search result pages, gmails, YouTube and other websites participated in Google Ads program."
+    #   button_label: "See Pricing"
+    #   button_link: "#pricing-section"
 
-    - title: "Sound Track"
-      subtitle: "Music Writing"
-      text: "Music copying, writing, creating, transcription and composition services."
-      button_label: "See Pricing"
-      button_link: "#pricing-section"
+    # - title: "Sound Track"
+    #   subtitle: "Music Writing"
+    #   text: "Music copying, writing, creating, transcription and composition services."
+    #   button_label: "See Pricing"
+    #   button_link: "#pricing-section"
 
 ### Skills [ skills ]
 skills:
-  title: "Professional Skills"
-  subtitle: "my <b>Talent</b>"
+  title: "기술 역량"
+  subtitle: "전문 <b>스킬</b>"
   bg_title: "Skills"
-
-  column1:
-    items:
-      - label: "PHP" #0-10 progress in dots
-        text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
-        value: "85" #0-100 progress in %
-
-      - label: "Python" #0-10 progress in dots
-        text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
-        value: "75" #0-100 progress in %
 
   column2:
     items:
+      - label: "HTML/CSS" #0-10 progress in dots
+        text: "시맨틱 마크업과 반응형 디자인"
+        value: "95" #0-100 progress in %
+
       - label: "JavaScript" #0-10 progress in dots
-        text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
-        value: "75" #0-100 progress in %
-
-      - label: "React" #0-10 progress in dots
-        text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
-        value: "70" #0-100 progress in %
-
-  column3:
-    items:
-      - label: "WordPress" #0-10 progress in dots
-        text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+        text: "ES6+, DOM 조작, 비동기 프로그래밍"
         value: "90" #0-100 progress in %
 
-      - label: "Adobe XD" #0-10 progress in dots
-        text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
-        value: "80" #0-100 progress in %
+  # column2:
+  #   items:
+  #     - label: "JavaScript" #0-10 progress in dots
+  #       text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+  #       value: "75" #0-100 progress in %
+
+  #     - label: "React" #0-10 progress in dots
+  #       text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+  #       value: "70" #0-100 progress in %
+
+  # column3:
+  #   items:
+  #     - label: "WordPress" #0-10 progress in dots
+  #       text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+  #       value: "90" #0-100 progress in %
+
+  #     - label: "Adobe XD" #0-10 progress in dots
+  #       text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+  #       value: "80" #0-100 progress in %
 
 ### Resume [ resume ]
 resume:
-  title: "Resume"
-  subtitle: "my <b>Story</b>"
+  title: "이력서"
+  subtitle: "학력 및 <b>경력</b>"
   bg_title: "History"
 
   education:
-    title: "Education"
+    title: "학력"
     items:
-      - name: "CoderHouse Courses"
-        subname: "Backend Programming"
-        period: "2014 - 2016"
-        text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+      - name: "서울대학교"
+        subname: "컴퓨터공학과"
+        period: "2015 - 2019"
+        text: "컴퓨터 과학 학사 학위 취득. 웹 개발 동아리 활동 및 교내 해커톤 우승 경험. 졸업 프로젝트로 AI 기반 추천 시스템 개발."
 
-      - name: "Lviv National Academy of Arts"
-        subname: "Faculty of Design"
-        period: "2012 - 2014"
-        text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+      - name: "디지털 고등학교"
+        subname: "정보통신과"
+        period: "2012 - 2015"
+        text: "정보통신 전문 교육 이수. 전국 IT 경진대회 장려상 수상."
 
-      - name: "IT Future"
-        subname: "High School"
-        period: "2010 - 2012"
-        text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+      # - name: "IT Future"
+      #   subname: "High School"
+      #   period: "2010 - 2012"
+      #   text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
 
   experience:
-    title: "Experience"
+    title: "경력"
     items:
-      - name: "UI Head &amp; Manager"
-        subname: "Soft Tech Inc."
-        period: "2020 - <b>Present</b>"
-        text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+      - name: "개발자"
+        subname: "ABC 테크놀로지"
+        period: "2021 - <b>현재</b>"
+        text: "프론트엔드 팀 리드 역할. React 기반 대시보드 시스템 설계 및 개발. 5명의 주니어 개발자 멘토링. 코드 리뷰 프로세스 도입으로 버그 30% 감소 달성."
 
-      - name: "UI / UX Specialist"
-        subname: "Kana Design Studio"
-        period: "2018 - 2020"
-        text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+      - name: "웹 개발자"
+        subname: "XYZ 스튜디오"
+        period: "2019 - 2021"
+        text: "React와 Node.js를 활용한 웹 애플리케이션 개발. RESTful API 설계 및 구현. 사용자 경험 개선으로 전환율 15% 향상."
 
-      - name: "Plugins Developer"
-        subname: "Fiverr.com"
-        period: "2016 - 2018"
-        text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+      # - name: "Plugins Developer"
+      #   subname: "Fiverr.com"
+      #   period: "2016 - 2018"
+      #   text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
 
 
 ### Testimonials [ testimonials ]
@@ -240,43 +240,39 @@ pricing:
 ### Blog [ blog ]
 #items generates from dir /_posts/*
 blog:
-  title: "Latest Blog"
-  subtitle: "my <b>Articles and Advice</b>"
+  title: "블로그"
+  subtitle: "기술 <b>아티클</b>"
   bg_title: "Blog"
   button:
-    label: "View Blog"
+    label: "모든 글 보기"
     link: "blog/"
 
 
 ### Contact [ contacts ]
 contacts:
-  title: "Contact Me"
-  subtitle: "Let’s <b>Talk About Ideas</b>"
+  title: "연락하기"
+  subtitle: "<b>문의</b>하기"
   bg_title: "Contact Me"
 
   list:
-    - label: "Address"
+    - label: "주소"
       icon: "far fa-map"
-      text: "North Tower, Toronto, Canada"
+      text: "서울특별시 강남구"
 
-    - label: "Freelance"
-      icon: "far fa-user"
-      text: "Available Right Now"
-
-    - label: "Email"
+    - label: "이메일"
       icon: "far fa-envelope"
-      text: "zoe.miller@mydomain.com"
+      text: "2000gj.choi@gmail.com"
 
-    - label: "Phone"
+    - label: "전화번호"
       icon: "far fa-address-book"
-      text: "+1 900 - 900 - 9000"
+      text: "+82 010 - 1234 - 5678"
 
 ### Portfolio [ portfolio ]
 #items generates from dir /_works/*
 portfolio:
-  title: "Portfolio"
-  subtitle: "my <b>Cases</b>"
-  bg_title: "Portfolio"
+  title: "포트폴리오"
+  subtitle: "대표 <b>작업물</b>"
+  bg_title: "Works"
   button:
     link: "works/"
-    label: "View More"
+    label: "더 보기"

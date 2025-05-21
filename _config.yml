@@ -29,7 +29,7 @@
 # in the templates via {{ site.myvariable }}.
 
 # basic settings
-title: "최경준 - 웹 개발자 포트폴리오오"
+title: "최경준 - 웹 개발자 포트폴리오"
 email: "2000gj.choi@gmail.com"
 description: "웹 개발자 최경준의 개인 포트폴리오 및 이력서 웹사이트입니다."
 author: "최경준"
@@ -38,16 +38,16 @@ url: "https://choi-gj.github.io" # the base hostname & protocol for your site, e
 date_format: "%Y-%m-%d"
 
 # paginations & permalinks
-paginate: 6
+paginate: 9
 paginate_path: "/blog/page:num/"
 permalink: pretty
 
 # disqus comments
 disqus_comments: "yes" # yes - show disqus comments, no - hide disqus comments
-disqus_shortname: "glitche-jekyll-theme" # read more here https://help.disqus.com/customer/portal/articles/466208-what-s-a-shortname-
+disqus_shortname: "choigj"
 
 # formsubmit.io
-formspree_endpoint: "https://formspree.io/f/your_endpoint" # sign up on https://formspree.io/ and create your form endpoint
+formspree_endpoint: "https://formspree.io/f/xkgreava" # sign up on https://formspree.io/ and create your form endpoint
 
 # collections
 collections:

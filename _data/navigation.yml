@@ -52,12 +52,16 @@ main:
     parent: 0
 
   # Additional Pages
-  - title: "Pages"
+  - title: "페이지"
     url: ""
     parent: 1
     childs:
-        - title: "Works"
+        - title: "포트폴리오"
           url: "works/"
 
-        - title: "Blog"
+        - title: "블로그"
           url: "blog/"
+
+        - title: "소개"
+          url: about/"
+      

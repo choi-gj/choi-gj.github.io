@@ -48,12 +48,12 @@ $light_error_color: red;
 */
 
 /* Fonts */
-$default_font: 'Rubik';
-$extra_font: 'Sorts Mill Goudy';
+$default_font: 'Poppins';
+$extra_font: 'Noto Sans KR';
 
 /* Fonts Size */
 
-$default_size: 20px;
+$default_size: 18px;
 
 $section_h1_size: 138px;
 $section_h2_size: 100px;
@@ -65,17 +65,23 @@ $btn_size: 18px;
 $menu_size: 120px;
 $menu_sub_size: 40px;
 
-$title_h1_size: 49px;
-$title_h3_size: 39px;
-$title_h4_size: 29px;
+$title_h1_size: 42px;
+$title_h3_size: 38px;
+$title_h4_size: 32px;
 $title_h5_size: 24px;
 $title_h6_size: 20px;
+
+/* 문단 여백 커스텀 */ 
+p {margin: 20px 0; }
+
+/* 제목 여백 조정 */
+h1, h2, h3, h4, h5, h6 { margin-bottom: 20px; }
 
 /* Fonts Weight */
 $font_weight: 300;
 
 /* Line Height */
-$line_height: 1.5;
+$line_height: 1.6;
 
 /*Mixins*/
 @mixin border-radius($radius) {
