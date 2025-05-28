@@ -26,7 +26,7 @@ ui_text:
   your_message:         "Your Message"
   send_message:         "메시지 보내기"
   accept_terms:         "*이용약관에 동의합니다."
-  thanks_message:       "메시지가 성공적으로 전송되었습니다다."
+  thanks_message:       "메시지가 성공적으로 전송되었습니다."
   see_project:          "프로젝트 보기"
   new:                  "new"
   search:               "Search ..."
