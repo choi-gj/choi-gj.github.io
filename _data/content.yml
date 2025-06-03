@@ -5,25 +5,25 @@
 
 ### Hero [ hero-image ]
 hero:
-  image: "assets/img/images.jpg"
+  image: "assets/img/profile.jpg"
   image_alt: "최경준"
   title: "<b>최</b> 경준"
   before_title: "안녕하세요, <b>저는</b>"
-  after_title: "<strong>웹 개발자</strong>입니다."
-  description: "한국에서 웹 개발을 하고 있습니다."
+  after_title: "강서폴리텍 사이버보안과 <br> 2학년 재학중인 최경준입니다."
+  description: "사이버 보안을 공부하고 있습니다."
   button1:
     label: "이력서 다운로드"
     link: "assets/files/resume.pdf"
   button2:
     label: "포트폴리오 보기"
     link: "#portfolio-section"
-  bg_title: "웹 개발자"
-  info:
-    - num: "10"
-      value: "Years of <strong>Experience</strong>"
+  bg_title: "웹 개발"
+  # info:
+  #   - num: "10"
+  #     value: "Years of <strong>Experience</strong>"
 
-    - num: "330"
-      value: "Completed <strong>Projects</strong>"
+  #   - num: "330"
+  #     value: "Completed <strong>Projects</strong>"
 
 ### Services [ services ]
 services:
