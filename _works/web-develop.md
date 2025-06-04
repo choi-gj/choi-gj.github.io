@@ -4,12 +4,12 @@ layout: works-single
 title: 리액트 개발자 포트폴리오
 category: 웹 개발
 category_slug: web-development
-image: assets/img/works/123.jpg
+image: assets/img/123.jpg
 short_description: 개인 포트폴리오 웹사이트 제작 프로젝트입니다.
 
 #상세 정보
 live_preview: https://myportfolio.com
-full_image: assets/img/works/portfolio-full.jpg
+full_image: assets/img/123.jpg
 info:
     - label: 제작 연도
       value: 2023
@@ -24,9 +24,9 @@ description1:
     text: "개인 포트폴리오를 효과적으로 전시하고 전문성을 드러낼 수 있는 웹사이트 제작을 목표로 했습니다. 반응형 디자인과 모던한 UI/UX를 적용했습니다."
 
 gallery:
-    - assets/img/works/portfolio-1.jpg
-    - assets/img/works/portfolio-2.jpg
-    - assets/img/works/portfolio-3.jpg
+    - assets/img/123.jpg
+    - assets/img/123.jpg
+    - assets/img/123.jpg
 
 video:
     poster: assets/img/works/portfolio-video-cover.jpg
