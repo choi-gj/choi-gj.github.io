@@ -19,18 +19,18 @@ header:
     alt: "최경준"
 
 ### Social
-social:
-  - title: "Github"
-    icon: "fab fa-github"
-    url: "https://github.com/choi-gj"
+# social:
+#   - title: "Github"
+#     icon: "fab fa-github"
+#     url: "https://github.com/choi-gj"
 
-  - title: LinkedIn"
-    icon: "fab fa-LinkedIn"
-    url: "https://linkedin.com/in/choigj"
+#   - title: LinkedIn"
+#     icon: "fab fa-LinkedIn"
+#     url: "https://linkedin.com/in/choigj"
 
-  - title: "Instagram"
-    icon: "fab fa-instagram"
-    url: "https://instagram.com/choi-gj"
+  # - title: "Instagram"
+  #   icon: "fab fa-instagram"
+  #   url: "https://instagram.com/choi-gj"
 
 ### Footer
 footer:
