@@ -78,6 +78,10 @@ skills:
         text: "ES6+, DOM 조작, 비동기 프로그래밍"
         value: "90" #0-100 progress in %
 
+      - label: "cryptography" #0-10 progress in dots
+        text: "동형 암호를 통한 연산"
+        value: "90" #0-100 progress in %
+
   # column2:
   #   items:
   #     - label: "JavaScript" #0-10 progress in dots

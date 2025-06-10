@@ -15,8 +15,7 @@ preloader:
 ### Header
 header:
   logo:
-    image: "assets/img/logo.png"
-    alt: "최경준"
+    text: "BLOG"
 
 ### Social
 # social:
@@ -50,5 +49,5 @@ portfolio:
     - name: "UI/UX 디자인"
       slug: "ui-ux-design"
 
-    - name: "브랜딩"
-      slug: "branding"
+    - name: "암호화"
+      slug: "cryptography"
