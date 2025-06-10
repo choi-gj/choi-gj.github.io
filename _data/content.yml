@@ -44,6 +44,12 @@ services:
       button_label: "자세히 보기"
       button_link: "#contacts-section"
 
+    - title: "암호화"
+      subtitle: "cryptography"
+      text: "동형 암호 이용한 선형 연산 구현"
+      button_label: "자세히 보기"
+      button_link: "#contacts-section"
+
     # - title: "Unity &amp; Unreal Engine"
     #   subtitle: "Game Development"
     #   text: "Creating games &amp; describes the design, development and release of a game. Developing unique mobile android and ios games."
@@ -79,7 +85,7 @@ skills:
         value: "90" #0-100 progress in %
 
       - label: "cryptography" #0-10 progress in dots
-        text: "동형 암호를 통한 연산"
+        text: "동형 암호를 통한 연산 구현"
         value: "90" #0-100 progress in %
 
   # column2:
